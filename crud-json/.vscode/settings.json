@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "zobo.php-intellisense",
+    "editor.formatOnSave": true
+}

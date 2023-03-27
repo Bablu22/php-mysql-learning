@@ -1,0 +1,20 @@
+**The purpose of the __constract
+1. Initialize the properties of Class
+2. Initialize the Database connction
+3. Check if the file exists
+4. Open the file before using it with the method
+5. Check for the Internet connction
+6. Check API is reachable before the connction
+7. Load a instance of a Class
+
+** final keyword
+-Class as final  ->  Prevent Inheritance
+-Method as final -> Prevent method overriding
+
+
+** Interface
+-> interface keyword is used to defilne Interfaces
+-> implemenmts keyword is used to implemenmts from interface
+-> You cannot defilne methods in interface. All the methods in interface has to be just defination.
+-> Any Class implemenmts one/many interface.
+
