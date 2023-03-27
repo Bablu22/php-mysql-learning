@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="" />
+    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assignment/module-8/FormSanitizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-8/loginUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-8/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-8/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +20,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Na762tAyAI548eW4pgyAj8Cg0O" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679890165977</updated>
-      <workItem from="1679890168756" duration="697000" />
+      <workItem from="1679890168756" duration="5301000" />
     </task>
     <servers />
   </component>
