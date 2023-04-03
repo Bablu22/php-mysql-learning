@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment/module-8/FormSanitizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-8/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-8/loginUser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-8/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-8/registration.php" afterDir="false" />
+    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="assignment-8">
+      <change afterPath="$PROJECT_DIR$/assignment/module-9/blogs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-9/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-9/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-9/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-9/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-9/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-9/script.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +44,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,11 +61,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679890165977</updated>
-      <workItem from="1679890168756" duration="5301000" />
+      <workItem from="1679890168756" duration="5382000" />
+      <workItem from="1680493957053" duration="10659000" />
     </task>
+    <task id="LOCAL-00001" summary="assignment-8">
+      <created>1679895549374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679895549374</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assignment-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment-8" />
   </component>
 </project>
