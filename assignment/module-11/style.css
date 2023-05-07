@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80');
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+form {
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.2rem;
+    padding: 2rem;
+    background-color: #f7f7f7;
+    border-radius: .5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+label {
+    font-weight: bold;
+    margin-right: 1rem;
+    color: #333;
+
+}
+
+input[type="number"] {
+    width: 10rem;
+    padding: .8rem;
+    font-size: inherit;
+    border: none;
+    outline: none;
+    width: 100%;
+    border-radius: 0.5rem;
+    background-color: #f2f2f2;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
+}
+
+button[type="button"] {
+    margin-top: 1rem;
+    padding: 1rem;
+    font-size: inherit;
+    color: #fff;
+    background-color: #ff6b6b;
+    border: none;
+    border-radius: .5rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button[type="button"]:hover {
+    background-color: #f45b5b;
+}
+
+#result {
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #ff6b6b;
+}
