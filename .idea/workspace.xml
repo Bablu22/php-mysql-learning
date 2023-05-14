@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="assignment-10 done">
-      <change beforePath="$PROJECT_DIR$/assignment/module-12/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/module-12/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="assignment-10 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
       <workItem from="1681098906155" duration="1857000" />
       <workItem from="1681147546684" duration="98000" />
       <workItem from="1681187021589" duration="670000" />
-      <workItem from="1684041189899" duration="58000" />
+      <workItem from="1684041189899" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="assignment-8">
       <created>1679895549374</created>
@@ -100,6 +98,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="assignment-8" />
