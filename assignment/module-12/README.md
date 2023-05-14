@@ -2,7 +2,7 @@
 
 **Part 1: Laravel Installation**
 
-![image info](/public/1.PNG)
+![image info](/public/1.png)
 
 **Part 2: Laravel Folder Structure**
 
@@ -37,7 +37,7 @@
 
 **Screenshot of running `/hello` route**
 
-![image info](/public/2.PNG)
+![image info](/public/2.png)
 
 _**Here are the steps I took to complete the Laravel Installation and Folder Structure assignment:**_
 
