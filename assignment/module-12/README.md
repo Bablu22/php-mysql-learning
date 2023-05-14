@@ -2,7 +2,7 @@
 
 **Part 1: Laravel Installation**
 
-![image info](/public/images/1.png)
+![image info]([/public/images/1.png](https://github.com/Bablu22/php-mysql-learning/blob/main/assignment/module-12/public/images/1.png))
 
 **Part 2: Laravel Folder Structure**
 
@@ -37,7 +37,7 @@
 
 **Screenshot of running `/hello` route**
 
-![image info](/public/images/2.png)
+![image info]([/public/images/2.png](https://github.com/Bablu22/php-mysql-learning/blob/main/assignment/module-12/public/images/2.png))
 
 _**Here are the steps I took to complete the Laravel Installation and Folder Structure assignment:**_
 
