@@ -2,7 +2,7 @@
 
 **Part 1: Laravel Installation**
 
-![image info](/public/images/1.png)
+![image info](/assignment/module-12/public/images/1.png)
 
 **Part 2: Laravel Folder Structure**
 
