@@ -37,7 +37,7 @@
 
 **Screenshot of running `/hello` route**
 
-![image info](/public/images/2.png)
+![image info](/assignment/module-12/public/images/2.png)
 
 _**Here are the steps I took to complete the Laravel Installation and Folder Structure assignment:**_
 
