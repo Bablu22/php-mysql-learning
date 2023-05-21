@@ -4,7 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="assignment-10 done" />
+    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="assignment-12 done">
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Controllers/TestController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/ValidateSignature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/sanctum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/module-14/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/module-12/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/module-12/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +115,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -41,7 +127,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -63,7 +149,9 @@
       <workItem from="1681098906155" duration="1857000" />
       <workItem from="1681147546684" duration="98000" />
       <workItem from="1681187021589" duration="670000" />
-      <workItem from="1684041189899" duration="359000" />
+      <workItem from="1684041189899" duration="575000" />
+      <workItem from="1684651729621" duration="39000" />
+      <workItem from="1684651844310" duration="4667000" />
     </task>
     <task id="LOCAL-00001" summary="assignment-8">
       <created>1679895549374</created>
@@ -93,7 +181,35 @@
       <option name="project" value="LOCAL" />
       <updated>1681187556087</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="assignment-12">
+      <created>1684041563022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684041563022</updated>
+    </task>
+    <task id="LOCAL-00006" summary="assignment-12 d">
+      <created>1684041652536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684041652536</updated>
+    </task>
+    <task id="LOCAL-00007" summary="assignment-12 da">
+      <created>1684041692154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684041692154</updated>
+    </task>
+    <task id="LOCAL-00008" summary="assignment-12 done">
+      <created>1684041726316</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684041726316</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +227,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="assignment-8" />
     <MESSAGE value="assignment-9" />
     <MESSAGE value="assignment-10" />
     <MESSAGE value="assignment-10 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment-10 done" />
+    <MESSAGE value="assignment-12" />
+    <MESSAGE value="assignment-12 d" />
+    <MESSAGE value="assignment-12 da" />
+    <MESSAGE value="assignment-12 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment-12 done" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
