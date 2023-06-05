@@ -4,16 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="assignment-14">
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Http/Controllers/ContactController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Http/Controllers/ProductController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Http/Controllers/RegistrationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Http/Middleware/AuthMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Http/Middleware/LogRequestsMiddleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Http/Requests/User/UserRegistrationRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Mail/ContactFormMail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/app/Models/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/module-15/resources/views/contact.blade.php" afterDir="false" />
+    <list default="true" id="0b1ca325-9e72-4a65-a091-fc32582051e9" name="Changes" comment="assignment-15 done">
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/ValidateSignature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/sanctum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/migrations/2023_06_05_045919_create_products_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/MigrationAssignment/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +154,8 @@
       <workItem from="1684671777955" duration="125000" />
       <workItem from="1684671941278" duration="45000" />
       <workItem from="1684672270461" duration="627000" />
-      <workItem from="1685341026453" duration="4970000" />
+      <workItem from="1685341026453" duration="5178000" />
+      <workItem from="1685940728493" duration="564000" />
     </task>
     <task id="LOCAL-00001" summary="assignment-8">
       <created>1679895549374</created>
@@ -148,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684658315039</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="assignment-15">
+      <created>1685347053427</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685347053427</updated>
+    </task>
+    <task id="LOCAL-00011" summary="assignment-15 done">
+      <created>1685347175534</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685347175534</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +265,9 @@
     <MESSAGE value="assignment-12 da" />
     <MESSAGE value="assignment-12 done" />
     <MESSAGE value="assignment-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment-14" />
+    <MESSAGE value="assignment-15" />
+    <MESSAGE value="assignment-15 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment-15 done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
